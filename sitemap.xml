@@ -3,70 +3,70 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/post/hugoisforlovers/</loc>
+    <loc>/blog/post/hugoisforlovers/</loc>
     <lastmod>2018-09-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/migrate-from-jekyll/</loc>
+    <loc>/blog/post/migrate-from-jekyll/</loc>
     <lastmod>2018-09-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>/blog/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/development/</loc>
-    <lastmod>2018-09-05T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/</loc>
+    <loc>/blog/tags/development/</loc>
     <lastmod>2018-09-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/go/</loc>
+    <loc>/blog/</loc>
     <lastmod>2018-09-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/golang/</loc>
+    <loc>/blog/tags/go/</loc>
     <lastmod>2018-09-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/hugo/</loc>
+    <loc>/blog/tags/golang/</loc>
     <lastmod>2018-09-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/jekyll/</loc>
+    <loc>/blog/tags/hugo/</loc>
     <lastmod>2018-09-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/post/</loc>
+    <loc>/blog/tags/jekyll/</loc>
     <lastmod>2018-09-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/static-site-generator/</loc>
+    <loc>/blog/post/</loc>
     <lastmod>2018-09-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>/blog/tags/static-site-generator/</loc>
+    <lastmod>2018-09-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/blog/tags/</loc>
     <lastmod>2018-09-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
