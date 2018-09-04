@@ -30,17 +30,17 @@ main {
 
 .intro > h1 {
     color: #212121;
-    font-size: 12vh;
+    font-size: 60px;
 }
 
 .intro > h2 {
     color: #757575;
-    font-size: 6vmin;
+    font-size: 30px;
 }
 
 .intro > .profile {
-    width: 25vh;
-    height: 25vh;
+    width: 150px;
+    height: 150px;
     border-radius: 50%;
 }
 
